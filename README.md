@@ -16,8 +16,16 @@ and choose which contact groups the contact belongs to.
 Requires NET4.5.
 
 Classes and templates are available for registered users. Email me (mikeduglas@yandex.ru) for more info.
+  
+  
+## Price
+$150 for each, $250 for both.
+  
+## Contacts
+[mikeduglas@yandex.ru](mailto: mikeduglas@yandex.ru)  
+[mikeduglas66@gmail.com](mailto: mikeduglas66@gmail.com)
 
-
+  
 **How to obtain client_secret file**
 * Create "Calendar" application in Google Console, obtain client_secret_calendar.json file and place it in exe folder.
 First time you run demo app, it will ask you to confirm calendar access (web browser pops up).
