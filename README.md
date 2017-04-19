@@ -7,7 +7,7 @@ v1.01
 - Contacts: error "Index out of range" if number of contacts exceeds page size (25).
 - Contacts: significantly reduced time of contacts loading (up to 100 times).
   
-v1.00 
+v1.00  
 Initial release.
   
 **Calendar**
