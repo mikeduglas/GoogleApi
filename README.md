@@ -8,7 +8,8 @@ v1.01
 - Contacts: significantly reduced time of contacts loading (up to 100 times).
   
 v1.00 
-
+Initial release.
+  
 **Calendar**
 - Lists upcoming events; allows to insert/update/delete events, assign a color to an event. 
 - Note: the application now uses "client_secret_calendar.json" file instead of "client_secret.json".
