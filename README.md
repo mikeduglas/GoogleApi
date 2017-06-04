@@ -3,6 +3,14 @@ GoogleApi for Clarion
 
 ## Calendar and Contacts
   
+v1.02
+- Calendar: gets a list of all user's calendars.
+- Calendar: returns event dates for "all day" events.
+- Calendar: saves "all day" events correctly.
+- Calendar and Contacts: path of credential file can be changed by passing full path into Authorize method. Default path is CSIDL_PERSONAL\.credentials\ subfolder.
+  
+Updated demo programs.
+  
 v1.01
 - Contacts: error "Index out of range" if number of contacts exceeds page size (25).
 - Contacts: significantly reduced time of contacts loading (up to 100 times).
@@ -29,8 +37,8 @@ Classes and templates are available for registered users. Email me (mikeduglas@y
 $150 for each, $250 for both.
   
 ## Contacts
-[mikeduglas@yandex.ru](mailto: mikeduglas@yandex.ru)  
-[mikeduglas66@gmail.com](mailto: mikeduglas66@gmail.com)
+- <mikeduglas@yandex.ru>  
+- <mikeduglas66@gmail.com>
 
   
 **How to obtain client_secret file**
