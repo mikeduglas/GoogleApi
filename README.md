@@ -19,7 +19,7 @@ v1.00
 Initial release.
   
 **Calendar**
-- Lists upcoming events; allows to insert/update/delete events, assign a color to an event. 
+- Lists all user's calendars; lists upcoming events; allows to insert/update/delete events, assign a color to an event. 
 - Note: the application now uses "client_secret_calendar.json" file instead of "client_secret.json".
 
 **Contacts**
