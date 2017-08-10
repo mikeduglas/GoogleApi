@@ -3,6 +3,12 @@ GoogleApi for Clarion
 
 ## Calendar and Contacts
   
+v1.03
+- New Google Api dlls v1.27.1.0.
+- Contacts: gets a list of all contact's phones, emails, and postal addresses; allows to add/change/delete phone/email/address; set Primary flag.
+
+Updated Contacts demo.
+
 v1.02
 - Calendar: gets a list of all user's calendars.
 - Calendar: returns event dates for "all day" events.
