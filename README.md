@@ -40,9 +40,9 @@ Classes and templates are available for registered users. Email me (mikeduglas@y
   
   
 ## Price
-~$150 for each, $250 for both.~
-$150 for Calendar
-# Contacts is not for sale.
+~$150 for each, $250 for both.~  
+$150 for Google Calendar.  
+**Google Contacts is not for sale.**
   
 ## Contacts
 - <mikeduglas@yandex.ru>  
